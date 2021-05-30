@@ -66,5 +66,5 @@ function animation(key)
   setTimeout(function()
 {
     a.classList.remove("pressed");
-},200);
+},150);
 }
